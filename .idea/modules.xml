@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jubeatAssistantPro.iml" filepath="$PROJECT_DIR$/jubeatAssistantPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jubeat_Assistant_Pro.iml" filepath="$PROJECT_DIR$/jubeat_Assistant_Pro.iml" />
     </modules>
   </component>
 </project>
