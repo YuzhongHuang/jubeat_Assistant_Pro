@@ -11,7 +11,7 @@ public class jubeat_Assistant_Pro extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_jubeat_assistant_pro);
+        setContentView(R.layout.jubeat_test);
     }
 
     @Override
